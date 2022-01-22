@@ -1,0 +1,24 @@
+# OS generated files #
+######################
+.DS_Store
+
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+.ipynb_checkpoints
+
+# inteliJ #
+.idea
+*.vscode/
+*.gz
+*PKG-INFO
+*.egg-info
+*.csv
+*.zip
+05-ML/**/*.txt
+06-Deep-Learning/**/*.txt
+mlruns
+
+# IDE #
+*.vscode
